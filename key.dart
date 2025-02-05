@@ -1,1 +1,1 @@
-void main(){print("Hello, my name is ouk sreysor");}
+// void main(){print("Hello, my name is ouk sreysor");}
